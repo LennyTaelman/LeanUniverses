@@ -9,4 +9,4 @@ is then the closure of the image of `X` in this product.
 
 The issue now is that this construction will live at a higher universe level. To
 conclude, one shows that the closure of a "small" subset of a "big" Hausdorff
-space is again big.
+space is small.
